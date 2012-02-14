@@ -1,0 +1,8 @@
+instalacion del sistema
+
+1- lo primero para instalar la aplicacion es copiar los archivos en el servidor web.
+2- como segundo punto es crear la base de datos, q se llamara "adsis". en la carpeta "sql" se 
+encuentra el archivo sql de la base de datos, en el cual ya estan los usuarios y algunos datos q utiliza el sistema.
+3- para acceder al sistema pide un usuario y un password los cuales son usuario = admin y password = password
+
+por lo correspondiene al uso, el sistema es muy intuitivo, asi q no creo haya problemas para usarlo, a menos q algun archivo este dañado.
